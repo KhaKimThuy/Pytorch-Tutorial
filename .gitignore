@@ -1,0 +1,15 @@
+logs/
+data/
+saved_images/
+evaluation/
+map_data/
+celeb_dataset/
+new_data/
+files/
+results/
+disc.pth.tar
+gen.pth.tar
+critich.pth.tar
+criticz.pth.tar
+genh.pth.tar
+genz.pth.tar
