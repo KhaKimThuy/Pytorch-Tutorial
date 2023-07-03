@@ -7,6 +7,8 @@ celeb_dataset/
 new_data/
 files/
 results/
+runs/
+flickr8k/
 disc.pth.tar
 gen.pth.tar
 critich.pth.tar
