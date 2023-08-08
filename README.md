@@ -23,3 +23,13 @@ Ref: https://www.youtube.com/watch?v=4LktBHGCNfw&list=PLhhyoLH6IjfwIp8bZnzX8QR30
 <img width="650" alt="image_captioning" src="https://github.com/KhaKimThuy/Pytorch/assets/109899051/16f36207-f31e-4552-88fb-6d565a9dc04c">
 
 Ref: https://www.youtube.com/watch?v=y2BaTt1fxJU
+
+## Neural Style Transfer
+<img width="650" alt="image_captioning" src="https://github.com/KhaKimThuy/Pytorch/assets/109899051/7d04a1a3-e53c-453d-853c-2018058d9bdd">
+
+Ref: https://www.youtube.com/watch?v=imX4kSKDY7s
+
+### Seq2Seq
+<img width="650" alt="image_captioning" src="https://github.com/KhaKimThuy/Pytorch/assets/109899051/dd02487f-80bb-48fe-a5b1-0e01f9245d4f">
+
+Ref: https://www.youtube.com/watch?v=sQUqQddQtB4
